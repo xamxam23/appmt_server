@@ -1,0 +1,4 @@
+Q1.java:4: error: ';' expected
+		syntax error
+		            ^
+1 error

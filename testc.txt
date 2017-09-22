@@ -1,0 +1,4 @@
+Test.java:1: error: reached end of file while parsing
+public class Test{ public static void main(String[] args){
+                                                          ^
+1 error
